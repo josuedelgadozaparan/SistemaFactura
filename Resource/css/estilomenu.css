@@ -1,0 +1,55 @@
+
+.navba{
+   background-color:#2b2b2b !important;
+
+    
+}
+.panel-heading{
+    
+    color: white !important;
+    
+}
+
+.panel{    
+    color: #2b2b2b !important;
+}
+.navbar-brand:link,.navbar-brand:visited {
+    color: deepskyblue !important;
+    
+}
+.navbar-brand:hover,.navbar-brand:active {
+    color: white !important;
+   
+  
+
+    
+}
+
+
+
+
+
+
+.navba li a:link,.navba li a:visited {
+    color: white !important;
+    
+}
+.navba li a:hover,.navba li a:active {
+    color: deepskyblue !important;
+    
+}
+
+.dropdown-menu{
+    background-color: #2b2b2b;
+}
+
+.navbar-menu{
+
+    margin.right:25 px;
+}
+
+
+
+.open > a {
+    background-color: #2b2b2b  !important;
+}
